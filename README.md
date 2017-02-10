@@ -5,6 +5,8 @@ Draft: Machine Learning (Deep vs Reinforcement) experiments presented as Jupyter
 
 [Example2](http://nbviewer.jupyter.org/github/dk14/machine-learning-exercises/blob/4b74493bf2f3c854ad79652e548a8dd000eb989a/MultiBandit.ipynb). Simple bandit (slot-machine) algorithm for reinforcement learning
 
+[Example2](https://github.com/dk14/machine-learning-exercises/blob/master/MNIST.ipynb). Multi-layer network trained on MNIST digits (using deeplearning4j library)
+
 Resources:
  - "Reinforcement Learning: An Introduction" Richard S. Sutton and Andrew G. Barto
  - "Deep Learning" Ian Goodfellow et al.
